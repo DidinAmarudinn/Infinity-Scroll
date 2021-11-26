@@ -7,6 +7,6 @@ http
 
 ## Screenshot
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/DidinAmarudinn/Infinity-Scroll/blob/master/screenshot/screenshot.png" width="350" title="screenshot">
 </p>
