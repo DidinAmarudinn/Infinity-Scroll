@@ -7,5 +7,6 @@ http
 
 ## Screenshot
 
-
-![alt text](https://github.com/DidinAmarudinn/Infinity-Scroll/blob/master/screenshot/screenshot.png?raw=true)
+<p align="center">
+  <img src="https://github.com/DidinAmarudinn/Infinity-Scroll/blob/master/screenshot/screenshot.png" width="350" title="screenshot">
+</p>
